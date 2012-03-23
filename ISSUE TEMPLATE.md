@@ -1,0 +1,19 @@
+## Summary:
+Describe the issue concisely here
+
+
+## Platforms:
+* browser xyz
+
+## How to reproduce:
+1. 
+2.
+
+## Reduced Example:
+[http://example.com/demo](http://example.com/demo)
+
+## Bug Tracker ticket(s):
+* filed with browser xyz [ticket](http://example.com/demo)
+
+## Workarounds:
+* [http://example.com/workaround](http://example.com/workaround)
