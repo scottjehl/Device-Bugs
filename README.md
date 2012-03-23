@@ -6,6 +6,10 @@ Feel free to add any legitimate non-framework-specific issues to this tracker. I
 
 Of particular interest here are bugs in older platforms that are no longer being developed, but still come included on brand new devices - and often have no update path! Android 2.x WebKit quirks are a prime example.
 
+### Example issue:
+
+Feel free to use this issue as a template, filling in all the sections you can: [https://github.com/scottjehl/Device-Bugs/issues/1](https://github.com/scottjehl/Device-Bugs/issues/1)
+
 * If a bug has a workaround, feel free to paste it into the thread so others are aware of it.
 * If the bug is in a platform's issue tracker, please reference that bug in the thread.
 * If the bug is fixed, please reference the fix if possible. If the fix is rolled out to existing users (somehow), it might be worth closing out.
