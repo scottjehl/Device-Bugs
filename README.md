@@ -1,8 +1,8 @@
 ## Device Bugs & Quirks
 
-There's no good place to quickly search for weird HTML, CSS, and JS quirks in mobile devices. I'll try and list mine here.
+There's no good place to quickly search for weird HTML, CSS, and JS quirks in mobile devices. Let's fix that.
 
-Please feel free to add any legitimate non-framework-specific issues to this tracker. If the issue deals with a browser in active development, please file the issue with that browser's tracker as well. 
+Please feel free to add any legitimate non-framework-specific browser issues to this tracker. We're using the term "device" broadly here too - anything that runs a browser is a device, so feeel free to file desktop browser bugs as well. If the issue deals with a browser in active development, please file the issue with that browser's tracker as well. 
 
 This site gives more information on that: [http://movethewebforward.org/](http://movethewebforward.org/)
 
